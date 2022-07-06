@@ -1,0 +1,83 @@
+body{
+  margin:0;
+  padding: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 200%;
+  color: #40514E;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  width: auto;
+  margin: 0 auto;
+  font-size: 5.265rem;
+  color:  #66BFBF;
+  line-height: 1;
+}
+h2{
+  font-family: 'Montsrrat', sans-serif;
+  font-weight: normal;
+  color:  #66BFBF;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+p{
+  line-height: 1;
+}
+
+
+/*TOP CONTAINER*/
+.top-container{
+  background-color:  #EAF6F6;
+}
+.top-cloud{
+  position:relative;
+  left: 200px;
+}
+.bottom-cloud{
+position: absolute;
+}
+/* MIDDLE CONTAINER*/
+.middle-container{
+
+}
+/* PROFILE SECTION*/
+.profile > img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.intro{
+  width: 600px;
+  margin: auto;
+}
+/* SKILLS SECTION*/
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.chillies{
+  width: 25%;
+  float:right;
+  margin-right: 30px;
+
+}
+.skill-row-discription{
+ width: 60%;
+}
+.code{
+  width: 25%;
+  text-align: right;
+  margin-right: 30px;
+}
+/* CONTACT ME SECTION*/
